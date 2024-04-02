@@ -1,4 +1,4 @@
-# copilot_test
+# Todo App
 
-A new Flutter project.
+A simple todo app using getx state management
 
